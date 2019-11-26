@@ -7,7 +7,7 @@
         <h1 class="title is-inline">Featured Meetups in "Location"</h1>
         <AppDropdown />
         <button class="button is-primary is-pulled-right m-r-sm">Create Meetups</button>
-        <button class="button is-primary is-pulled-right m-r-sm">All</button>
+        <button class="button is-primary is-pulled-right m-r-sm">All test</button>
       </div>
       <div class="row columns">
         <div class="column is-one-third">
